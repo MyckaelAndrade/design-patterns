@@ -90,6 +90,7 @@ Dados válidos!
 ## 📂 Estrutura do Projeto
 
 Atividade 1/
+
 `│`
 
 `├── `src/                          # Pasta com o código-fonte
