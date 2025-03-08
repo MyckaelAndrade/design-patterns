@@ -91,19 +91,33 @@ Dados válidos!
 
 Atividade 1/
 `│`
+
 `├── `src/                          # Pasta com o código-fonte
+
 `│   ├──` Fornecedor.java
+
 `│   ├──` Departamento.java
+
 `│   ├──` Engenheiro.java
+
 `│   ├──` Diretor.java
+
 `│   ├──` Gerente.java
+
 `│   ├──` Pessoa.java
+
 `│   ├──` Cliente.java
+
 `│   └──` Main.java
+
 `│`
+
 `├──` docs/                         # Pasta com a documentação
+
 `│`   `└──` diagrama_uml.pdf          # Diagrama UML em PDF
+
 `│`
+
 `└──` README.md                     # Arquivo README principal
 
 ---
