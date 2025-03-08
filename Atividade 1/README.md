@@ -8,23 +8,28 @@ Este projeto é um exemplo didático que demonstra o uso de **interfaces**, **cl
 
 O projeto contém as seguintes funcionalidades:
 
-1. **Interface `Fornecedor`**:
+1. **Interface `Autenticavel`**:
+   - Define métodos que registra usuários autenticados no sistema.
+   - Métodos:
+      - `login()`
+        
+2. **Interface `Fornecedor`**:
    - Define métodos que devem ser implementados por classes que representam fornecedores.
    - Métodos:
      - `forneceProduto()`
      - `realizaPedido()`
 
-2. **Interface `Departamento`**:
+3. **Interface `Departamento`**:
    - Define métodos para gerenciar departamentos e funcionários.
    - Métodos:
      - `criaDepartamento()`
      - `cadastraFuncionario()`
 
-3. **Classes que implementam as interfaces**:
+4. **Classes que implementam as interfaces**:
    - `Engenheiro`: Implementa apenas a interface `Fornecedor`.
    - `Diretor` e `Gerente`: Implementam as interfaces `Autenticavel`, `Fornecedor` e `Departamento`.
 
-4. **Classe Abstrata `Pessoa`**:
+5. **Classe Abstrata `Pessoa`**:
    - Define atributos e métodos comuns para representar uma pessoa.
    - Atributos:
      - `nome`, `idade`, `cpf`, `endereco`, `telefone`.
@@ -34,7 +39,7 @@ O projeto contém as seguintes funcionalidades:
        - `exibirInformacoes()`
        - `validaDados()`
 
-5. **Classe `Cliente`**:
+6. **Classe `Cliente`**:
    - Herda da classe `Pessoa` e implementa os métodos abstratos.
    - Métodos:
      - `exibirInformacoes()`: Exibe os dados do cliente.
