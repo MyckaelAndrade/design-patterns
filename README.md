@@ -16,9 +16,9 @@
 | Nº | Tema | Link da Branch | UML |
 |----|------|----------------|-----|
 | 1️⃣ | Interfaces e Classes Abstratas | [atividade-1](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-1) | ✔️ |
-| 2️⃣ | Princípios SOLID | [atividade-2](https://github.com/seu-usuario/seu-repositorio/tree/atividade-2) | ✔️ |
-| 3️⃣ | Padrões MVC, DAO e BO | [atividade-3](em andamento) | x |
-| 4️⃣ | Sistema de Login com Singleton | [atividade-4](em andamento) | x |
+| 2️⃣ | Princípios SOLID | [atividade-2](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-2) | x |
+| 3️⃣ | Padrões MVC, DAO e BO | [atividade-3](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-3) | x |
+| 4️⃣ | Sistema de Login com Singleton | [atividade-4](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-4) | x |
 
 ---
 
