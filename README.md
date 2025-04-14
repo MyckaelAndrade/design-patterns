@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1bee9564-4a20-4840-b99c-2e816e55c4ed)![Java](https://img.shields.io/badge/language-Java-blue.svg)
+![Java](https://img.shields.io/badge/language-Java-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 
@@ -106,4 +106,12 @@ Todas as atividades deste repositório estão sob a licença **MIT**, permitindo
   <b>Obrigado por visitar! Qualquer dúvida ou sugestão, fique à vontade para abrir uma issue ou enviar um pull request 🙌</b>
 </p>
 
+---
+
 > Gostou do projeto? Me siga no GitHub para acompanhar mais conteúdos como este! 💙
+
+<p align="center">
+  <a href="https://github.com/MyckaelAndrade">
+    <img src="https://github.com/user-attachments/assets/1bee9564-4a20-4840-b99c-2e816e55c4ed" width="320px" alt="Siga meu GitHub"/>
+  </a>
+</p>
