@@ -1,4 +1,9 @@
+![Java](https://img.shields.io/badge/language-Java-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+
 <h1 align="center">🎯 Design Patterns - Atividades Práticas</h1>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="180px" alt="Code gif" />
