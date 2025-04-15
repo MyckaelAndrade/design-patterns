@@ -52,4 +52,4 @@ Este projeto foi desenvolvido como exemplo didático. Para dúvidas ou sugestõe
 
 ## 📄 Diagrama UML
 
-Para visualizar o diagrama UML do projeto, clique aqui.
+Para visualizar o diagrama UML do projeto, [Clique Aqui](https://github.com/MyckaelAndrade/design-patterns/blob/MyckaelAndrade-atividade-3/Atividade%203/docs/diagrama_uml.pdf)
