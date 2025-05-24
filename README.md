@@ -22,12 +22,14 @@
 |----|------|----------------|-----|
 | 1️⃣ | Interfaces e Classes Abstratas | [atividade-1](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-1) | ✔️ |
 | 2️⃣ | Princípios SOLID | [atividade-2](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-2) | x |
-| 3️⃣ | Padrões MVC, DAO e BO | [atividade-3](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-3) | x |
-| 4️⃣ | Sistema de Login com Singleton | [atividade-4](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-4) | x |
-| 5️⃣ | Sistema de Login com Singleton | [atividade-4](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-5) | x |
-| 6️⃣ | Sistema de Login com Singleton | [atividade-4](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-6) | x |
-| 7️⃣ | Sistema de Login com Singleton | [atividade-4](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-7) | x |
-| 8️⃣ | Sistema de Login com Singleton | [atividade-4](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-8) | x |
+| 3️⃣ | Padrões MVC, DAO e BO | [atividade-3](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-3) | ✔️ |
+| 4️⃣ | Sistema de Login com Singleton | [atividade-4](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-4) | ✔️ |
+| 5️⃣ | Produtos Esportivos com Factory Method | [atividade-5](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-5) | ✔️ | 
+| 6️⃣ | Abstract Factory Exemplos Práticos | [atividade-6](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-6) | ✔️ |
+| 7️⃣ | Padrão Prototype  | [atividade-7](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-7) | ✔️ |
+| 8️⃣ | Implementação do Adapter | [atividade-8](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-8) | ✔️ |
+| 9️⃣ | Loja de Quadrinhos | [atividade-9](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-9) | x |
+| 🔟 | Sistema de venda com Facade | [atividade-10](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-10) | x |
 
 ---
 
