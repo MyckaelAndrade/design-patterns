@@ -1,14 +1,14 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-# 🔐 Atividade: Sistema de Login com Singleton, Captcha e Princípios SOLID
+# 🔐 Atividade: Sistema de Login com Singleton
 
 O objetivo deste projeto é simular um sistema de login utilizando o padrão de projeto **Singleton**, com aplicação dos princípios **SOLID**, e proteção contra acessos automatizados por meio de uma verificação tipo **Captcha** (com números e símbolos aleatórios).
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fXhIrU9VscE4rLk5x7/giphy.gif" width="400" alt="Login GIF">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWx2NGc5c2Y5bWxta3IyYmdtazMxbXpiYzNieTJhcWdxeHE0dHE2cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zOvBKUUEERdNm/giphy.gif" width="400" alt="Login GIF">
 </p>
 
 ## 🎯 Funcionalidades Principais
@@ -50,4 +50,4 @@ Contribuições, sugestões ou dúvidas são sempre bem-vindas!
 ---
 
 ## 📄 Diagrama UML
-Para visualizar o diagrama UML do projeto,[clique aqui]()
+Para visualizar o diagrama UML do projeto, [clique aqui](https://github.com/MyckaelAndrade/design-patterns/blob/MyckaelAndrade-atividade-4/Atividade%204/docs/diagrama_uml.pdf)
