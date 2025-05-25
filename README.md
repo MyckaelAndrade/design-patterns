@@ -62,7 +62,7 @@
 
 ---
 
-### Atividade 3 – Implementação com o Padrão MVC
+### Atividade 3 – Padões MVC, DAO e BO
 
 🧱 **Objetivo:** Construir uma aplicação simples estruturada no **padrão MVC (Model-View-Controller)**.
 
@@ -83,6 +83,72 @@
 - Controle centralizado de autenticação
 - Fácil manutenção
 
+
+---
+
+### Atividade 5 – Produtos Esportivos com Factory Method
+
+🏭 **Objetivo:** Aplicar o padrão Factory Method na criação de diferentes produtos esportivos de forma flexível e escalável.
+
+📌 **Destaques:**
+- Criação de objetos sem expor a lógica de instância
+- Facilita a extensão com novos tipos de produtos
+- Promove baixo acoplamento entre classes
+
+---
+
+### Atividade 6 – Abstract Factory: Exemplos Práticos
+
+🏢 **Objetivo:** Utilizar o padrão Abstract Factory para criar famílias de objetos relacionados sem depender de suas classes concretas.
+
+📌 **Destaques:**
+- Criação de produtos compatíveis em conjunto
+- Alto nível de abstração na criação de objetos
+- Isolamento de implementações específicas
+
+---
+
+### Atividade 7 – Padrão Prototype
+
+🧬 **Objetivo:** Demonstrar a clonagem de objetos por meio do padrão Prototype, evitando a recriação manual.
+
+📌 **Destaques:**
+- Clonagem eficiente de objetos complexos
+- Redução do custo de criação de instâncias
+- Flexibilidade na personalização de cópias
+
+---
+
+### Atividade 8 – Implementação do Adapter
+
+🔌 **Objetivo:** Integrar interfaces incompatíveis através do padrão Adapter, permitindo a reutilização de classes existentes.
+
+📌 **Destaques:**
+- Conexão entre sistemas com estruturas diferentes
+- Reutilização de código legado
+- Flexibilização da comunicação entre classes
+
+---
+
+### Atividade 9 – Loja de Quadrinhos
+
+📚 **Objetivo:** Criar um sistema de gerenciamento de uma loja de quadrinhos utilizando princípios de orientação a objetos.
+
+📌 **Destaques:**
+- Cadastro e controle de produtos (HQs)
+- Organização por categorias e autores
+- Interface amigável para gerenciamento
+
+---
+
+### Atividade 10 – Sistema de Venda com Facade
+
+🏪 **Objetivo:** Simplificar a interação com subsistemas complexos usando o padrão Facade em um sistema de vendas.
+
+📌 **Destaques:**
+- Interface única para múltiplos serviços internos
+- Redução da complexidade para o usuário final
+- Maior organização e legibilidade do código
 
 ---
 
