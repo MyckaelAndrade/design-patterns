@@ -8,7 +8,7 @@ O objetivo deste projeto é demonstrar de forma prática a aplicação do padrã
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBubTZvczNodjNmM3RnbDJvZTUwbzYxbXpsdHpoY3JoaWdxcnU0OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jnqQCGK5ISgFqIYt5d/giphy.gif" width="400" alt="Factory Method gif">
+   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDQ5Yms5d3B4ZHdpMHFhNHA2ZDRuMTZzNTBpYjlzd253aWpoZWNxMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="180px" alt="Factory method gif" />  
 </p>
 
 ---
@@ -55,4 +55,4 @@ Sinta-se livre para clonar, modificar e reutilizar com os devidos créditos!
 ---
 
 ## 📄 Diagrama UML
-Para visualizar o diagrama UML do projeto, ![clique aqui]()
+Para visualizar o diagrama UML do projeto, [clique aqui](https://github.com/MyckaelAndrade/design-patterns/blob/MyckaelAndrade-atividade-5/Atividade%205/docs/diagrama_factory_method.pdf)
