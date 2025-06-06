@@ -30,6 +30,9 @@
 | 8️⃣ | Implementação do Adapter | [atividade-8](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-8) | ✔️ |
 | 9️⃣ | Loja de Quadrinhos | [atividade-9](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-9) | x |
 | 🔟 | Sistema de venda com Facade | [atividade-10](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-10) | x |
+| 1️⃣1️⃣ | Nova Funcionalidade Mensagem por Whatsapp | [atividade-11](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-11) | x |
+| 1️⃣2️⃣ | Sistema de Serviço de Stream | [atividade-12](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-12) | x |
+| 1️⃣3️⃣ | Sistema de Notificações com Observer | [atividade-13](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-13) | ✔️ |
 
 ---
 
