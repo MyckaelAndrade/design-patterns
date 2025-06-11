@@ -1,0 +1,4 @@
+package src;
+public interface IVehicleStorage {
+    void saveVehicleData(Vehicle vehicle);
+}
