@@ -1,7 +1,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-# 📦 Loja de Quadrinhos - Itens Aleatórios
+# 📦 Atividade: Loja de Quadrinhos - Itens Aleatórios
 
 Este projeto simula uma loja de quadrinhos que oferece caixas de assinatura com itens variados para seus clientes, de acordo com o nível de assinatura (Bronze, Prata, Ouro, Platina). Cada caixa é montada aleatoriamente com itens do catálogo, respeitando o limite de itens do nível do cliente.
 
@@ -29,6 +29,8 @@ Este projeto simula uma loja de quadrinhos que oferece caixas de assinatura com 
 
 ```bash
 LojaQuadrinhos/
+├── docs/
+│   ├── diagrama_uml.pdf        # Diagrama UML do projeto
 ├── src/
 │   ├── Item.java               # Classe que representa um item
 │   ├── Caixa.java              # Classe para montar a caixa com itens aleatórios
@@ -46,4 +48,4 @@ Sinta-se livre para clonar, modificar e reutilizar com os devidos créditos!
 ---
 
 ## 📄 Diagrama UML
-Para visualizar o diagrama UML do projeto, [clique aqui](https://github.com/MyckaelAndrade/design-patterns/blob/MyckaelAndrade-atividade-9/Atividade%209/docs/diagrama_uml.pdf)
+Para visualizar o diagrama UML do projeto, ![clique aqui](https://github.com/MyckaelAndrade/design-patterns/blob/MyckaelAndrade-atividade-9/Atividade%209/docs/diagrama_uml.pdf)
