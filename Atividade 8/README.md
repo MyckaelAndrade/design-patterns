@@ -34,8 +34,8 @@ O objetivo deste projeto é simular a **integração de duas bibliotecas incompa
 │   ├── IVehicleStorage.java        # Interface da nova biblioteca
 │   ├── OldVehicleStorage.java      # Biblioteca legada
 │   ├── VehicleStorageAdapter.java  # Classe Adapter
-│   ├── Main.java                   # Classe de teste com método main
-├── README.md                       # Este arquivo
+│   └── Main.java                   # Classe de teste com método main
+└── README.md                       # Este arquivo
 
 ```
 
