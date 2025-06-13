@@ -1,7 +1,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-# Sistema de Gerenciamento de Veículos - Padrão Adapter
+# 🚀 Atividade: Sistema de Gerenciamento de Veículos - Padrão Adapter
 
 O objetivo deste projeto é simular a **integração de duas bibliotecas incompatíveis** em um sistema de gerenciamento de dados de veículos, utilizando o padrão de projeto **Adapter**. A aplicação permite que uma **biblioteca legada** seja usada com a nova **interface moderna**, adaptando os dados automaticamente.
 
@@ -27,7 +27,8 @@ O objetivo deste projeto é simular a **integração de duas bibliotecas incompa
 
 ```bash
 ├── docs/
-│   └── relatorio.pdf               # Relatório do Projeto 1 a 2 Páginas
+│   ├── relatorio.pdf               # Relatório do Projeto 1 a 2 Páginas
+│   └── diagrama_uml.pdf            # Diagrama UML do projeto
 ├── src/
 │   ├── Vehicle.java                # Classe que representa um veículo
 │   ├── IVehicleStorage.java        # Interface da nova biblioteca
@@ -48,4 +49,9 @@ Sinta-se livre para clonar, modificar e reutilizar com os devidos créditos!
 ---
 
 ## 📄 Diagrama UML
-Para visualizar o diagrama UML do projeto, [clique aqui]()
+Para visualizar o diagrama UML do projeto, ![clique aqui](https://github.com/MyckaelAndrade/design-patterns/blob/MyckaelAndrade-atividade-8/Atividade%208/docs/diagrama_uml.pdf)
+
+---
+
+## 📝 Relatório
+Para visualizar o Relatório do projeto, ![clique aqui](https://github.com/MyckaelAndrade/design-patterns/blob/MyckaelAndrade-atividade-8/Atividade%208/docs/relatorio.pdf)
