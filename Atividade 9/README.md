@@ -44,3 +44,6 @@ Este projeto foi desenvolvido como exemplo didático.
 Sinta-se livre para clonar, modificar e reutilizar com os devidos créditos!
 
 ---
+
+## 📄 Diagrama UML
+Para visualizar o diagrama UML do projeto, [clique aqui](https://github.com/MyckaelAndrade/design-patterns/blob/MyckaelAndrade-atividade-9/Atividade%209/docs/diagrama_uml.pdf)
