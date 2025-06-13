@@ -54,6 +54,7 @@ PacoteViagem/
 │   ├── PagamentoSistema.java    # Calcula o valor final conforme forma de pagamento
 │   ├── PacoteFacade.java        # Classe Facade que integra todos os subsistemas
 │   └── Main.java                # Classe principal que executa a simulação
+├── CONTRIBUTING.md              # Como contribuir com este projeto
 └── README.md                    # Este arquivo
 ```
 
@@ -66,3 +67,4 @@ Sinta-se à vontade para clonar, modificar e usar com os devidos créditos!
 ---
 
 ## 📄 Diagrama UML
+Para visualizar o diagrama UML do projeto, [clique aqui](https://github.com/MyckaelAndrade/design-patterns/blob/MyckaelAndrade-atividade-10/Atividade%2010/docs/diagrama_uml.pdf)
