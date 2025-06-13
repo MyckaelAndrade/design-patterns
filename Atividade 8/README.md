@@ -13,7 +13,7 @@ O objetivo deste projeto é simular a **integração de duas bibliotecas incompa
 
 ---
 
-## Funcionalidades Principais
+## 🎯 Funcionalidades Principais
 
 - Representação de veículos com classe `Veiculo`
 - Interface moderna de armazenamento `IArmazenamentoVeiculo`
@@ -23,7 +23,7 @@ O objetivo deste projeto é simular a **integração de duas bibliotecas incompa
 
 ---
 
-## Estrutura do Projeto
+## 🧱 Estrutura do Projeto
 
 ```bash
 ├── docs/
@@ -49,9 +49,9 @@ Sinta-se livre para clonar, modificar e reutilizar com os devidos créditos!
 ---
 
 ## 📄 Diagrama UML
-Para visualizar o diagrama UML do projeto, ![clique aqui](https://github.com/MyckaelAndrade/design-patterns/blob/MyckaelAndrade-atividade-8/Atividade%208/docs/diagrama_uml.pdf)
+Para visualizar o diagrama UML do projeto, [clique aqui](https://github.com/MyckaelAndrade/design-patterns/blob/MyckaelAndrade-atividade-8/Atividade%208/docs/diagrama_uml.pdf)
 
 ---
 
 ## 📝 Relatório
-Para visualizar o Relatório do projeto, ![clique aqui](https://github.com/MyckaelAndrade/design-patterns/blob/MyckaelAndrade-atividade-8/Atividade%208/docs/relatorio.pdf)
+Para visualizar o Relatório do projeto, [clique aqui](https://github.com/MyckaelAndrade/design-patterns/blob/MyckaelAndrade-atividade-8/Atividade%208/docs/relatorio.pdf)
