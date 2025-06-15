@@ -28,11 +28,13 @@
 | 6️⃣ | Abstract Factory Exemplos Práticos | [atividade-6](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-6) | ✔️ |
 | 7️⃣ | Padrão Prototype  | [atividade-7](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-7) | ✔️ |
 | 8️⃣ | Implementação do Adapter | [atividade-8](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-8) | ✔️ |
-| 9️⃣ | Loja de Quadrinhos | [atividade-9](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-9) | x |
-| 🔟 | Sistema de venda com Facade | [atividade-10](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-10) | x |
-| 1️⃣1️⃣ | Nova Funcionalidade Mensagem por Whatsapp | [atividade-11](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-11) | x |
-| 1️⃣2️⃣ | Sistema de Serviço de Stream | [atividade-12](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-12) | x |
+| 9️⃣ | Loja de Quadrinhos | [atividade-9](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-9) | ✔️ |
+| 🔟 | Sistema de venda com Facade | [atividade-10](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-10) | ✔️ |
+| 1️⃣1️⃣ | Nova Funcionalidade Mensagem por Whatsapp | [atividade-11](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-11) | ✔️ |
+| 1️⃣2️⃣ | Sistema de Serviço de Stream | [atividade-12](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-12) | ✔️ |
 | 1️⃣3️⃣ | Sistema de Notificações com Observer | [atividade-13](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-13) | ✔️ |
+| 1️⃣4️⃣ | Biblioteca Virtual usando Padrão Iterator | [atividade-14](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-atividade-14) | ✔️ |
+| 1️⃣5️⃣ | Montadora de Celulares com Padrão Builder | [trabalho-final](https://github.com/MyckaelAndrade/design-patterns/tree/MyckaelAndrade-trabalho-final) | ✔️ |
 
 ---
 
@@ -152,6 +154,62 @@
 - Interface única para múltiplos serviços internos
 - Redução da complexidade para o usuário final
 - Maior organização e legibilidade do código
+
+---
+
+### Atividade 11 – Nova Funcionalidade Mensagem por Whatsapp
+
+
+---
+
+### Atividade 12 – Sistema de Serviço de Stream
+
+📺 **Objetivo:** Permitir que usuários personalizem sua assinatura de streaming adicionando pacotes opcionais de forma dinâmica, utilizando o padrão de projeto Decorator.
+
+📌 **Destaques:**
+
+- Flexibilidade para compor diferentes tipos de assinatura sem alterar a estrutura base
+- Adição de funcionalidades (pacotes) de forma dinâmica e não repetitiva
+- Utilização clara do padrão Decorator para manter código extensível e organizado
+- Separação de responsabilidades entre a assinatura base e os pacotes adicionais
+
+---
+
+### Atividade 13 – Sistema de Notificações com Observer
+
+🎬 **Objetivo:** Notificar automaticamente os usuários inscritos sempre que novos filmes ou séries forem adicionados à plataforma, utilizando o padrão Observer.
+
+📌 **Destaques:**
+
+- Notificações segmentadas por gênero (ação, comédia, terror, anime, ficção científica)
+- Inscrição de usuários em múltiplos gêneros de interesse
+- Atualizações reativas e automáticas com base no padrão Observer
+- Desacoplamento entre emissor (plataforma) e receptores (usuários)
+- Simulação com 5 usuários demonstrando o funcionamento do padrão
+
+---
+
+### Atividade 14 – Biblioteca Virtual usando Padrão Iterator
+
+📚 **Objetivo:** Permitir a navegação sequencial por uma coleção de livros sem expor sua estrutura interna, utilizando o padrão Iterator.
+
+📌 **Destaques:**
+
+- Separação entre a lógica da coleção e a lógica de iteração
+- Proteção da estrutura interna da lista de livros
+- Aumento do encapsulamento e da flexibilidade no código
+
+---
+
+### Trabalho Final – Montadora de Celulares com Padrão Builder
+
+📱 **Objetivo:** Demonstrar a construção passo a passo de um objeto complexo (celular) usando o padrão Builder, permitindo diferentes configurações sem alterar a lógica principal.
+
+📌 **Destaques:**
+
+- Separação da construção e representação do objeto
+- Flexibilidade para criar celulares com diferentes especificações (básico e gamer)
+- Facilita a manutenção, entendimento e extensão do código
 
 ---
 
